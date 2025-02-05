@@ -1,6 +1,3 @@
-# 
-My 
-
 # CUDA_Zero_to_Hero
 
 This document serves as a log of my stumblings through Cuda complexity with knowing C or C++. 
